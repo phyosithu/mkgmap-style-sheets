@@ -1,0 +1,1 @@
+This project aims to improve the vector maps for Garmin GPS created with the mkgmap compiler from http://OpenStreetMap.org data for the world routable maps at http://garmin.openstreetmap.nl
